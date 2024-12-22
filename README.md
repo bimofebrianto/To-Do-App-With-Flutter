@@ -1,16 +1,63 @@
-# todo_app
+# To-Do App
 
-A new Flutter project.
+Ini adalah aplikasi pertama saya dengan Flutter. Saya sedang belajar Flutter, dan aplikasi ini adalah langkah awal saya dalam pengembangan aplikasi menggunakan Flutter.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Tambah Tugas: Pengguna dapat menambahkan tugas baru ke daftar.
+- Lihat Tugas: Menampilkan semua tugas dalam daftar yang terorganisir.
+- Tandai Tugas Selesai: Pengguna dapat menandai tugas sebagai selesai.
+- Hapus Tugas: Menghapus tugas dari daftar.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1734867675](https://github.com/user-attachments/assets/f3fc7931-27e7-4873-a963-421976c2ebaa)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Instalasi
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   ```
+2. Masuk ke direktori proyek:
+   ```bash
+   cd todo-app
+   ```
+3. Dapatkan dependensi yang diperlukan:
+   ```bash
+   flutter pub get
+   ```
+4. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+## Prasyarat
+
+- Flutter SDK terinstal (minimal versi 3.0.0).
+- Android Studio atau Xcode untuk emulator/simulator.
+
+## Kontribusi
+
+1. Fork repository ini.
+2. Buat branch baru untuk fitur atau perbaikan bug:
+   ```bash
+   git checkout -b nama-fitur
+   ```
+3. Commit perubahan Anda:
+   ```bash
+   git commit -m "Deskripsi perubahan"
+   ```
+4. Push ke branch Anda:
+   ```bash
+   git push origin nama-fitur
+   ```
+5. Buat pull request.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detailnya.
+
+
